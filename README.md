@@ -40,7 +40,7 @@
 > "Success is not the key to happiness. Happiness is the key to success."  
 > "The future belongs to those who believe in the beauty of their dreams."
 
-![image](https://github.com/user-attachments/assets/782b8f47-b1e4-4b52-b72f-9744207414a1
+![image](https://github.com/user-attachments/assets/782b8f47-b1e4-4b52-b72f-9744207414a1)
 ![image](https://github.com/user-attachments/assets/3bb991c2-4dc6-445f-8b62-c0268e134041)
 
 
