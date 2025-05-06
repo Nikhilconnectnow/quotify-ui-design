@@ -1,8 +1,6 @@
-﻿# Let's write the README.md content to a downloadable file.
 
-readme_content = """
 # Quotify — AI Quotes Generator (UI Design)
-
+# demo link: https://nikhilconnectnow.github.io/quotify-ui-design/
 **Quotify** is a beautifully designed user interface concept for an AI-powered quotes generator. The application is envisioned to help users create meaningful and inspiring quotes instantly — perfect for social media, presentations, or personal inspiration.
 
 > ⚠️ **Note:** This project is a **UI design only** — functionality and AI integration are not implemented yet.
@@ -42,8 +40,10 @@ readme_content = """
 > "Success is not the key to happiness. Happiness is the key to success."  
 > "The future belongs to those who believe in the beauty of their dreams."
 
-![Quotify UI Screenshot](![image](https://github.com/user-attachments/assets/19ecf6fe-3782-4a71-ab3b-e8c16da37859)
-)
+![image](https://github.com/user-attachments/assets/782b8f47-b1e4-4b52-b72f-9744207414a1
+![image](https://github.com/user-attachments/assets/3bb991c2-4dc6-445f-8b62-c0268e134041)
+
+
 
 ## 🚀 Getting Started (UI Preview)
 
